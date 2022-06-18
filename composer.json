@@ -11,7 +11,7 @@
   ],
   "minimum-stability": "dev",
   "autoload": {
-    "psr-4": {"Aurora\\GelalCargoIntegration\\": "src"}
+    "psr-0": {"Aurora\\GelalCargoIntegration\\": "src"}
   },
   "require": {},
   "prefer-stable": true

@@ -13,5 +13,6 @@
   "autoload": {
     "psr-4": {"Aurora\\GelalCargoIntegration\\": "src"}
   },
-  "require": {}
+  "require": {},
+  "prefer-stable": true
 }

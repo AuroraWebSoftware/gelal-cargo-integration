@@ -1,5 +1,5 @@
 {
-  "name": "aurorawebsoftware/gelal-cargo-integration",
+  "name": "aurorawebsoftware/gelal-cargo-api",
   "description": "Gelal Cargo Integration",
   "type": "library",
   "license": "MIT",
